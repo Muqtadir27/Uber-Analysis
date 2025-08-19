@@ -109,6 +109,8 @@ Data Modeling – Relationships between trip, location, and time data.
 
 Conditional Formatting & Tooltips – Enhanced user experience.
 
+
+
 💡 Expected Outcomes
 
 ✔ Detect booking & revenue patterns.
