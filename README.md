@@ -100,3 +100,11 @@ https://github.com/user-attachments/assets/0f51f91f-5f70-4393-9cea-b15a2424bd46
 ✔ Improve customer experience via targeted operational decisions.           
 
 
+## 🤝 Contributing
+
+I believe that collaboration leads to greater success.         
+If you have ideas to improve the dashboard, add new insights, or simply want to refine the analysis — feel free to fork this repository and open a pull request.              
+
+✨ Every contribution, big or small, will play a part in shaping this project further.       
+Let’s build something impactful together!               
+
