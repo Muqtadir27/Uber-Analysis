@@ -1,20 +1,20 @@
 # 🚖 Uber Trip Analysis – Power BI - Dashboard
 ## 📌 Project Overview
 The **Uber Trip Analysis** dashboard provides in-depth insights into Uber's trip data for June 2024, helping stakeholders make data-driven decisions regarding operations, pricing, and resource allocation.
-Using **Power BI**, the project uncovers booking trends, revenue patterns, trip efficiency, location hotspots, and demand variations over time.
+Using **Power BI**, the project uncovers booking trends, revenue patterns, trip efficiency, location hotspots, and demand variations over time.          
 
 
 ## 🎯 Business Requirement
 The goal of this project is to:
-- Analyze Uber trip performance in terms of bookings, revenue, trip distance, and trip time.
-- Identify trends across vehicle types, payment methods, and locations.
-- Optimize operations by understanding peak hours, high-demand areas, and preferred vehicle types.
+- Analyze Uber trip performance in terms of bookings, revenue, trip distance, and trip time.         
+- Identify trends across vehicle types, payment methods, and locations.      
+- Optimize operations by understanding peak hours, high-demand areas, and preferred vehicle types.          
 
 ## 📊 Key KPIs Tracked
-- **Total Bookings** – How many trips were booked over the given period.
-- **Total Booking Value** – Total revenue from all bookings.
-- **Average Booking Value** – Average revenue per booking.       
-- **Total Trip Distance** – Combined distance covered by all trips. 
+- **Total Bookings** – How many trips were booked over the given period.          
+- **Total Booking Value** – Total revenue from all bookings.        
+- **Average Booking Value** – Average revenue per booking.          
+- **Total Trip Distance** – Combined distance covered by all trips.  
 - **Average Trip Distance** – Typical distance customers travel per trip.
 - **Average Trip Time** – Mean trip duration.
 
@@ -27,26 +27,31 @@ The goal of this project is to:
 ## 1️⃣ Overview Analysis
 - Total Bookings by Payment Type – e.g., Uber Pay, Cash.
 - Total Bookings by Trip Type – Day vs. Night trips.
-- Vehicle Type Analysis – Bookings, revenue, and distances for UberX, UberXL, Uber Green, Uber Comfort, and Uber Black.
+- Vehicle Type Analysis – Bookings, revenue, and distances for UberX, UberXL, Uber Green, Uber Comfort, and Uber Black.       
+
 ![page 1](https://github.com/user-attachments/assets/80c39b4e-1735-4c28-bacb-d6ae8beaa870)
 
 **Location Insights:**
-- **Most Frequent Pickup:** Penn Station/Madison Sq West
-- **Most Frequent Drop-off:** Upper East Side North
-- **Farthest Trip:** Lower East Side → Crown Heights North (144.1 miles)
-- Top 5 Booking Locations with their most preferred vehicle type.
+- **Most Frequent Pickup:** Penn Station/Madison Sq West     
+- **Most Frequent Drop-off:** Upper East Side North        
+- **Farthest Trip:** Lower East Side → Crown Heights North (144.1 miles)         
+- Top 5 Booking Locations with their most preferred vehicle type.          
 
 ## 2️⃣ Time Analysis
-- **Booking Value by Pickup Time** – Identifies daily peak demand periods.
-- **Booking Value by Day Name** – Shows weekday vs. weekend trends.
-- **Booking Value by Hour & Day Heatmap** – Highlights busiest hours for each day.
-
-## 3️⃣ Details Tab
-Full Data Grid View – Displays trip-by-trip details:
-- **Trip ID, Date, Time, Vehicle, Payment Type, Passengers, Distance, Value, Pickup Location, Total Bookings.**
-- **Drill-Through Functionality** – Access filtered records from other visuals.
+- **Booking Value by Pickup Time** – Identifies daily peak demand periods.        
+- **Booking Value by Day Name** – Shows weekday vs. weekend trends.       
+- **Booking Value by Hour & Day Heatmap** – Highlights busiest hours for each day.      
+       
+![page 2](https://github.com/user-attachments/assets/0d04f5f3-6e11-4950-958f-cacad2ad92ae)              
+            
+## 3️⃣ Details Tab                     
+Full Data Grid View – Displays trip-by-trip details:             
+- **Trip ID, Date, Time, Vehicle, Payment Type, Passengers, Distance, Value, Pickup Location, Total Bookings.**          
+- **Drill-Through Functionality** – Access filtered records from other visuals.              
 - **Toggle View** – Switch between filtered and full dataset.
-
+            
+  ![page 3](https://github.com/user-attachments/assets/d0e59280-672d-43c7-abec-8b60b2bae611)
+                
 ## 📈 Insights Derived
 
 - **High-Volume Days:** Wednesday & Saturday show peak revenues.
@@ -82,14 +87,4 @@ Full Data Grid View – Displays trip-by-trip details:
 ✔ Optimize driver allocation & pricing strategies.
 ✔ Improve customer experience via targeted operational decisions.
 
-## 📷 Dashboard Preview
 
-### **Overview Analysis**
-![page 1](https://github.com/user-attachments/assets/80c39b4e-1735-4c28-bacb-d6ae8beaa870)
-
-### **Time Analysis**
-![page 2](https://github.com/user-attachments/assets/0d04f5f3-6e11-4950-958f-cacad2ad92ae)
-
-
-### **Details Tab**
-![page 3](https://github.com/user-attachments/assets/d0e59280-672d-43c7-abec-8b60b2bae611)
