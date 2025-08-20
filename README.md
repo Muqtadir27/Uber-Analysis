@@ -68,6 +68,18 @@ Full Data Grid View – Displays trip-by-trip details:
 - **Interactive Bookmarks** – For switching between overview and detail modes.            
 - **Export Button** – Download raw trip data in CSV/Excel format.          
 
+## 🎥 **Interactive Demo**  
+Wondering if the icons, slicers, and filters actually work?   
+Yes — here’s a short clip showing the Overview Analysis in action:  
+
+
+
+https://github.com/user-attachments/assets/0f51f91f-5f70-4393-9cea-b15a2424bd46
+
+
+
+
+
 ## 📂 Dataset
 - **Source:** Uber trip dataset (June 2024)           
 - **Size:** 103.7K records          
