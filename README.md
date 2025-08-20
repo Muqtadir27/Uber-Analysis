@@ -31,53 +31,36 @@ The goal of this project is to:
 - **Farthest Trip:** Lower East Side → Crown Heights North (144.1 miles)
 - Top 5 Booking Locations with their most preferred vehicle type.
 
-2️⃣ Time Analysis
+## 2️⃣ Time Analysis
+- **Booking Value by Pickup Time** – Identifies daily peak demand periods.
+- **Booking Value by Day Name** – Shows weekday vs. weekend trends.
+- **Booking Value by Hour & Day Heatmap** – Highlights busiest hours for each day.
 
-Booking Value by Pickup Time – Identifies daily peak demand periods.
-
-Booking Value by Day Name – Shows weekday vs. weekend trends.
-
-Booking Value by Hour & Day Heatmap – Highlights busiest hours for each day.
-
-3️⃣ Details Tab
-
+## 3️⃣ Details Tab
 Full Data Grid View – Displays trip-by-trip details:
+- Trip ID, Date, Time, Vehicle, Payment Type, Passengers, Distance, Value, Pickup Location, Total Bookings.
+- Drill-Through Functionality – Access filtered records from other visuals.
+- Toggle View – Switch between filtered and full dataset.
 
-Trip ID, Date, Time, Vehicle, Payment Type, Passengers, Distance, Value, Pickup Location, Total Bookings.
+## 📈 Insights Derived
 
-Drill-Through Functionality – Access filtered records from other visuals.
+- **High-Volume Days:** Wednesday & Saturday show peak revenues.
+- **Peak Demand Hours:** **8 AM – 6 PM** generate the highest booking values.
+- Popular Vehicle: UberX accounts for the largest share of bookings and revenue.
+- **Short Trips Dominance:** Average trip distance is 3 miles with a 16-minute duration.
+- **Location Hotspots:** Penn Station/Madison Sq West is the most common pickup point.
 
-Toggle View – Switch between filtered and full dataset.
+## ⚙️ Implementation Highlights
 
-📈 Insights Derived
+- **Dynamic Measure Selector** – Allows switching KPIs across all visuals.
+- **Conditional Formatting** – Highlights high and low KPI values.
+- **Slicers** – Filter by date, city, vehicle type, and payment method.
+- **Interactive Bookmarks** – For switching between overview and detail modes.
+- **Export Button** – Download raw trip data in CSV/Excel format.
 
-High-Volume Days: Wednesday & Saturday show peak revenues.
-
-Peak Demand Hours: 8 AM – 6 PM generate the highest booking values.
-
-Popular Vehicle: UberX accounts for the largest share of bookings and revenue.
-
-Short Trips Dominance: Average trip distance is 3 miles with a 16-minute duration.
-
-Location Hotspots: Penn Station/Madison Sq West is the most common pickup point.
-
-⚙️ Implementation Highlights
-
-Dynamic Measure Selector – Allows switching KPIs across all visuals.
-
-Conditional Formatting – Highlights high and low KPI values.
-
-Slicers – Filter by date, city, vehicle type, and payment method.
-
-Interactive Bookmarks – For switching between overview and detail modes.
-
-Export Button – Download raw trip data in CSV/Excel format.
-
-📂 Dataset
-
-Source: Uber trip dataset (June 2024)
-
-Size: 103.7K records
+## 📂 Dataset
+- **Source:** Uber trip dataset (June 2024)
+- **Size:** 103.7K records
 
 Fields: Trip ID, Pickup Date & Hour, Vehicle Type, Payment Type, Distance, Value, Pickup Location, etc.
 
