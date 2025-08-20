@@ -28,6 +28,7 @@ The goal of this project is to:
 - Total Bookings by Payment Type – e.g., Uber Pay, Cash.
 - Total Bookings by Trip Type – Day vs. Night trips.
 - Vehicle Type Analysis – Bookings, revenue, and distances for UberX, UberXL, Uber Green, Uber Comfort, and Uber Black.
+![page 1](https://github.com/user-attachments/assets/80c39b4e-1735-4c28-bacb-d6ae8beaa870)
 
 **Location Insights:**
 - **Most Frequent Pickup:** Penn Station/Madison Sq West
