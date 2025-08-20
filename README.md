@@ -20,6 +20,10 @@ The goal of this project is to:
 
 
 ## 🗂 Dashboard Structure
+
+![structure](https://github.com/user-attachments/assets/b44ca294-2f03-49fc-b9c0-aa3068d8d7a2)
+
+
 ## 1️⃣ Overview Analysis
 - Total Bookings by Payment Type – e.g., Uber Pay, Cash.
 - Total Bookings by Trip Type – Day vs. Night trips.
@@ -38,9 +42,9 @@ The goal of this project is to:
 
 ## 3️⃣ Details Tab
 Full Data Grid View – Displays trip-by-trip details:
-- Trip ID, Date, Time, Vehicle, Payment Type, Passengers, Distance, Value, Pickup Location, Total Bookings.
-- Drill-Through Functionality – Access filtered records from other visuals.
-- Toggle View – Switch between filtered and full dataset.
+- **Trip ID, Date, Time, Vehicle, Payment Type, Passengers, Distance, Value, Pickup Location, Total Bookings.**
+- **Drill-Through Functionality** – Access filtered records from other visuals.
+- **Toggle View** – Switch between filtered and full dataset.
 
 ## 📈 Insights Derived
 
@@ -61,22 +65,16 @@ Full Data Grid View – Displays trip-by-trip details:
 ## 📂 Dataset
 - **Source:** Uber trip dataset (June 2024)
 - **Size:** 103.7K records
+- **Fields: Trip ID, Pickup Date & Hour, Vehicle Type, Payment Type, Distance, Value, Pickup Location, etc.**
 
-Fields: Trip ID, Pickup Date & Hour, Vehicle Type, Payment Type, Distance, Value, Pickup Location, etc.
-
-🛠 Tools & Technologies
-
-Power BI – Dashboard creation & interactive analysis.
-
-DAX – Calculated measures for KPIs & dynamic visuals.
-
-Data Modeling – Relationships between trip, location, and time data.
-
-Conditional Formatting & Tooltips – Enhanced user experience.
+## 🛠 Tools & Technologies
+- **Power BI** – Dashboard creation & interactive analysis.
+- **DAX** – Calculated measures for KPIs & dynamic visuals.
+- **Data Modeling** – Relationships between trip, location, and time data.
+- **Conditional Formatting & Tooltips** – Enhanced user experience.
 
 
-
-💡 Expected Outcomes
+## 💡 Expected Outcomes
 
 ✔ Detect booking & revenue patterns.
 ✔ Compare trip trends by vehicle, payment, and location.
@@ -86,9 +84,12 @@ Conditional Formatting & Tooltips – Enhanced user experience.
 📷 Dashboard Preview
 
 Overview Analysis
-
+![page 1](https://github.com/user-attachments/assets/80c39b4e-1735-4c28-bacb-d6ae8beaa870)
 
 Time Analysis
+![page 2](https://github.com/user-attachments/assets/0d04f5f3-6e11-4950-958f-cacad2ad92ae)
+
 
 
 Details Tab
+![page 3](https://github.com/user-attachments/assets/d0e59280-672d-43c7-abec-8b60b2bae611)
