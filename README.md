@@ -10,7 +10,7 @@ Using **Power BI**, the project uncovers booking trends, revenue patterns, trip 
 - Identify trends across vehicle types, payment methods, and locations.
 - Optimize operations by understanding peak hours, high-demand areas, and preferred vehicle types.
 
-📊 Key KPIs Tracked
+## 📊 Key KPIs Tracked
 
 Total Bookings – How many trips were booked over the given period.
 
