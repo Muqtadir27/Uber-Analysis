@@ -5,27 +5,22 @@ Using **Power BI**, the project uncovers booking trends, revenue patterns, trip 
 
 
 ## 🎯 Business Requirement
-- The goal of this project is to:
+The goal of this project is to:
 - Analyze Uber trip performance in terms of bookings, revenue, trip distance, and trip time.
 - Identify trends across vehicle types, payment methods, and locations.
 - Optimize operations by understanding peak hours, high-demand areas, and preferred vehicle types.
 
 ## 📊 Key KPIs Tracked
+- **Total Bookings** – How many trips were booked over the given period.
+- **Total Booking Value** – Total revenue from all bookings.
+- **Average Booking Value** – Average revenue per booking.       
+- **Total Trip Distance** – Combined distance covered by all trips. 
+- **Average Trip Distance** – Typical distance customers travel per trip.
+- **Average Trip Time** – Mean trip duration.
 
-Total Bookings – How many trips were booked over the given period.
 
-Total Booking Value – Total revenue from all bookings.
-
-Average Booking Value – Average revenue per booking.
-
-Total Trip Distance – Combined distance covered by all trips.
-
-Average Trip Distance – Typical distance customers travel per trip.
-
-Average Trip Time – Mean trip duration.
-
-🗂 Dashboard Structure
-1️⃣ Overview Analysis
+## 🗂 Dashboard Structure
+**1️⃣ Overview Analysis**
 
 Total Bookings by Payment Type – e.g., Uber Pay, Cash.
 
