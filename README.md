@@ -94,10 +94,13 @@ https://github.com/user-attachments/assets/0f51f91f-5f70-4393-9cea-b15a2424bd46
 
 ## 💡 Expected Outcomes
 
-✔ Detect booking & revenue patterns.       
-✔ Compare trip trends by vehicle, payment, and location.         
-✔ Optimize driver allocation & pricing strategies.          
-✔ Improve customer experience via targeted operational decisions.           
+✔ **Detect booking & revenue patterns.**       
+✔ **Compare trip trends by vehicle, payment, and location.**         
+✔ **Optimize driver allocation & pricing strategies.**    
+✔ **Improve customer experience via targeted operational decisions.**           
+
+## 📜 Author
+Designed & Developed by: **Mohammed Abdul Muqtadir🤍**
 
 
 ## 🤝 Contributing
