@@ -21,22 +21,15 @@ The goal of this project is to:
 
 ## 🗂 Dashboard Structure
 **1️⃣ Overview Analysis**
+- Total Bookings by Payment Type – e.g., Uber Pay, Cash.
+- Total Bookings by Trip Type – Day vs. Night trips.
+- Vehicle Type Analysis – Bookings, revenue, and distances for UberX, UberXL, Uber Green, Uber Comfort, and Uber Black.
 
-Total Bookings by Payment Type – e.g., Uber Pay, Cash.
-
-Total Bookings by Trip Type – Day vs. Night trips.
-
-Vehicle Type Analysis – Bookings, revenue, and distances for UberX, UberXL, Uber Green, Uber Comfort, and Uber Black.
-
-Location Insights:
-
-Most Frequent Pickup: Penn Station/Madison Sq West
-
-Most Frequent Drop-off: Upper East Side North
-
-Farthest Trip: Lower East Side → Crown Heights North (144.1 miles)
-
-Top 5 Booking Locations with their most preferred vehicle type.
+**Location Insights:**
+- **Most Frequent Pickup:** Penn Station/Madison Sq West
+- **Most Frequent Drop-off:** Upper East Side North
+- **Farthest Trip:** Lower East Side → Crown Heights North (144.1 miles)
+- Top 5 Booking Locations with their most preferred vehicle type.
 
 2️⃣ Time Analysis
 
