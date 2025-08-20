@@ -1,20 +1,14 @@
 # 🚖 Uber Trip Analysis – Power BI - Dashboard
-
-📌 Project Overview
-
-The Uber Trip Analysis dashboard provides in-depth insights into Uber's trip data for June 2024, helping stakeholders make data-driven decisions regarding operations, pricing, and resource allocation.
-Using Power BI, the project uncovers booking trends, revenue patterns, trip efficiency, location hotspots, and demand variations over time.
+## 📌 Project Overview
+The **Uber Trip Analysis** dashboard provides in-depth insights into Uber's trip data for June 2024, helping stakeholders make data-driven decisions regarding operations, pricing, and resource allocation.
+Using **Power BI**, the project uncovers booking trends, revenue patterns, trip efficiency, location hotspots, and demand variations over time.
 
 
-🎯 Business Requirement
-
-The goal of this project is to:
-
-Analyze Uber trip performance in terms of bookings, revenue, trip distance, and trip time.
-
-Identify trends across vehicle types, payment methods, and locations.
-
-Optimize operations by understanding peak hours, high-demand areas, and preferred vehicle types.
+## 🎯 Business Requirement
+- The goal of this project is to:
+- Analyze Uber trip performance in terms of bookings, revenue, trip distance, and trip time.
+- Identify trends across vehicle types, payment methods, and locations.
+- Optimize operations by understanding peak hours, high-demand areas, and preferred vehicle types.
 
 📊 Key KPIs Tracked
 
