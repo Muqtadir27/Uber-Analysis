@@ -20,7 +20,7 @@ The goal of this project is to:
 
 
 ## 🗂 Dashboard Structure
-**1️⃣ Overview Analysis**
+## 1️⃣ Overview Analysis
 - Total Bookings by Payment Type – e.g., Uber Pay, Cash.
 - Total Bookings by Trip Type – Day vs. Night trips.
 - Vehicle Type Analysis – Bookings, revenue, and distances for UberX, UberXL, Uber Green, Uber Comfort, and Uber Black.
