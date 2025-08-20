@@ -46,45 +46,45 @@ The goal of this project is to:
             
 ## 3️⃣ Details Tab                     
 Full Data Grid View – Displays trip-by-trip details:             
-- **Trip ID, Date, Time, Vehicle, Payment Type, Passengers, Distance, Value, Pickup Location, Total Bookings.**          
-- **Drill-Through Functionality** – Access filtered records from other visuals.              
-- **Toggle View** – Switch between filtered and full dataset.
+- **Trip ID, Date, Time, Vehicle, Payment Type, Passengers, Distance, Value, Pickup Location, Total Bookings.**           
+- **Drill-Through Functionality** – Access filtered records from other visuals.                    
+- **Toggle View** – Switch between filtered and full dataset.        
             
   ![page 3](https://github.com/user-attachments/assets/d0e59280-672d-43c7-abec-8b60b2bae611)
                 
 ## 📈 Insights Derived
 
-- **High-Volume Days:** Wednesday & Saturday show peak revenues.
-- **Peak Demand Hours:** **8 AM – 6 PM** generate the highest booking values.
-- Popular Vehicle: UberX accounts for the largest share of bookings and revenue.
-- **Short Trips Dominance:** Average trip distance is 3 miles with a 16-minute duration.
-- **Location Hotspots:** Penn Station/Madison Sq West is the most common pickup point.
+- **High-Volume Days:** Wednesday & Saturday show peak revenues.          
+- **Peak Demand Hours:** **8 AM – 6 PM** generate the highest booking values.        
+- Popular Vehicle: UberX accounts for the largest share of bookings and revenue.         
+- **Short Trips Dominance:** Average trip distance is 3 miles with a 16-minute duration.         
+- **Location Hotspots:** Penn Station/Madison Sq West is the most common pickup point.          
 
-## ⚙️ Implementation Highlights
+## ⚙️ Implementation Highlights       
 
-- **Dynamic Measure Selector** – Allows switching KPIs across all visuals.
-- **Conditional Formatting** – Highlights high and low KPI values.
-- **Slicers** – Filter by date, city, vehicle type, and payment method.
-- **Interactive Bookmarks** – For switching between overview and detail modes.
-- **Export Button** – Download raw trip data in CSV/Excel format.
+- **Dynamic Measure Selector** – Allows switching KPIs across all visuals.          
+- **Conditional Formatting** – Highlights high and low KPI values.           
+- **Slicers** – Filter by date, city, vehicle type, and payment method.          
+- **Interactive Bookmarks** – For switching between overview and detail modes.            
+- **Export Button** – Download raw trip data in CSV/Excel format.          
 
 ## 📂 Dataset
-- **Source:** Uber trip dataset (June 2024)
-- **Size:** 103.7K records
-- **Fields: Trip ID, Pickup Date & Hour, Vehicle Type, Payment Type, Distance, Value, Pickup Location, etc.**
+- **Source:** Uber trip dataset (June 2024)           
+- **Size:** 103.7K records          
+- **Fields: Trip ID, Pickup Date & Hour, Vehicle Type, Payment Type, Distance, Value, Pickup Location, etc.**         
 
 ## 🛠 Tools & Technologies
-- **Power BI** – Dashboard creation & interactive analysis.
-- **DAX** – Calculated measures for KPIs & dynamic visuals.
-- **Data Modeling** – Relationships between trip, location, and time data.
-- **Conditional Formatting & Tooltips** – Enhanced user experience.
+- **Power BI** – Dashboard creation & interactive analysis.           
+- **DAX** – Calculated measures for KPIs & dynamic visuals.          
+- **Data Modeling** – Relationships between trip, location, and time data.          
+- **Conditional Formatting & Tooltips** – Enhanced user experience.        
 
 
 ## 💡 Expected Outcomes
 
-✔ Detect booking & revenue patterns.
-✔ Compare trip trends by vehicle, payment, and location.
-✔ Optimize driver allocation & pricing strategies.
-✔ Improve customer experience via targeted operational decisions.
+✔ Detect booking & revenue patterns.       
+✔ Compare trip trends by vehicle, payment, and location.         
+✔ Optimize driver allocation & pricing strategies.          
+✔ Improve customer experience via targeted operational decisions.           
 
 
