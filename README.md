@@ -81,15 +81,14 @@ Full Data Grid View – Displays trip-by-trip details:
 ✔ Optimize driver allocation & pricing strategies.
 ✔ Improve customer experience via targeted operational decisions.
 
-📷 Dashboard Preview
+## 📷 Dashboard Preview
 
-Overview Analysis
+### **Overview Analysis**
 ![page 1](https://github.com/user-attachments/assets/80c39b4e-1735-4c28-bacb-d6ae8beaa870)
 
-Time Analysis
+### **Time Analysis**
 ![page 2](https://github.com/user-attachments/assets/0d04f5f3-6e11-4950-958f-cacad2ad92ae)
 
 
-
-Details Tab
+### **Details Tab**
 ![page 3](https://github.com/user-attachments/assets/d0e59280-672d-43c7-abec-8b60b2bae611)
